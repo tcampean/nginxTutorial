@@ -96,3 +96,9 @@ services:
       - app2
       - app3
 ```
+
+## Run the example
+
+Intialize the containers by executing `docker-compose up -d` inside the `nginx-docker-load-balancer` folder.
+
+Test it by going to localhost:80 in your browser
